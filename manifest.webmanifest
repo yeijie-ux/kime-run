@@ -1,6 +1,6 @@
 {
   "name": "KIME RUN | くりり",
-  "short_name": "KIME RUN",
+  "short_name": "RUN",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
